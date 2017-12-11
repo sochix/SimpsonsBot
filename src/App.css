@@ -1,0 +1,7 @@
+.appContainer {  
+  margin: 10px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;  
+}
+

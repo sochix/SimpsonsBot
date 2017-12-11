@@ -1,0 +1,17 @@
+.botUserCard {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+.botUserCard > img {
+    width: 150px;
+    height: 150px;    
+}
+
+.botUserCard > h5 {
+    margin: 5px 0;
+}

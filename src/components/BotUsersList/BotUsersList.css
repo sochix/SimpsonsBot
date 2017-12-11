@@ -1,0 +1,12 @@
+.botUsersList {
+    display: flex;
+    flex-wrap: wrap;
+    width: 840px;
+    margin: 10px;
+}
+
+.botUsersContainer {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
