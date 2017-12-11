@@ -1,5 +1,6 @@
 # Тестовое задание
 
+![](https://github.com/sochix/SimpsonsBot/raw/master/screenshot.png)
 [LIVE DEMO](https://sochix.github.io/SimpsonsBot/)
 
 ## Используемые технологии
