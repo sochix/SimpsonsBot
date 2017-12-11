@@ -2,6 +2,7 @@
   "name": "simpsons_bot_sample_app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://sochix.github.io/simpsonsbot",
   "dependencies": {
     "@blueprintjs/core": "^1.34.1",
     "react": "^16.2.0",

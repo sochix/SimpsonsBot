@@ -6,9 +6,10 @@ React, create-react-app, blueprintjs
 
 ## Запуск на машине разработчика
 
-`javascript
-
-`
+```javascript
+yarn install
+yarn start
+```
 
 
 
